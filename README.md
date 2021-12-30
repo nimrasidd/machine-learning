@@ -1,0 +1,2 @@
+# machine-learning
+This report is based on data from a clothing store chain that uses different types of marketing initiatives to promote sales. our task is to classify which customers will respond to direct mail marketing based on data collected for past customers.  To achieve this goal we are following the cross industry standard process because of its powerful practicality, its flexibility and its applicability when using analytics to solve thorny business issues.  
